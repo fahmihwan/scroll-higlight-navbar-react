@@ -1,0 +1,22 @@
+html {
+  scroll-behavior: smooth;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.section {
+  border: 1px solid red;
+}
+#section1 {
+  background-color: darkturquoise;
+}
+#section2 {
+  background-color: blueviolet;
+}
+#section3 {
+  background-color: chocolate;
+}
+#section4 {
+  background-color: darkseagreen;
+}

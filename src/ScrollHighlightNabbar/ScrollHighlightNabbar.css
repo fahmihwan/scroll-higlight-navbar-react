@@ -1,0 +1,18 @@
+.navContainer {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    border: 1px solid gray;
+    position: sticky;
+    top: 0;
+    background-color: aliceblue;
+    overflow-x: scroll;
+  }
+  .navlink {
+    border-radius: 5px;
+    padding: 10px 20px;
+    background-color: burlywood;
+    margin: 0 10px;
+    min-width: 300px;
+  }
+  
